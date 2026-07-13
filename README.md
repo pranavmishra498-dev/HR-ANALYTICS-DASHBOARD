@@ -3,7 +3,7 @@ Developed an interactive HR Analytics Dashboard using Power BI to analyze employ
 # HR Analytics Dashboard 📊
 
 ## Overview
-This project is an interactive **HR Analytics Dashboard** built using **Power BI**. It provides valuable insights into employee data, workforce performance, and attrition trends, helping organizations make data-driven HR decisions.
+This project is an interactive **HR Analytics Dashboard** built using **Power BI**. It provides valuable insights into employee data, workforce performance,and attrition trends, helping organizations make data-driven HR decisions.
 
 ## Objectives
 - Analyze employee attrition.
