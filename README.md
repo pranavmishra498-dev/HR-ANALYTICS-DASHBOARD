@@ -53,7 +53,7 @@ This project is an interactive **HR Analytics Dashboard** built using **Power BI
 - Python pandas
 
 ## Dashboard Preview
->![HR ANALYTICS DASHBOARD](images/Screenshot 2026-07-11 182848.png)
+>![HR Analytics Dashboard](images/Screenshot%202026-07-11%20182848.png)
 
 ## Author
 **Pranav Mishra**
